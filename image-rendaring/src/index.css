@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.images-container{
+    height: calc(100% - 68px);
+}
